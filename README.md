@@ -1,3 +1,7 @@
+# Deprecated
+
+Use the official example in https://github.com/fuma-nama/fumadocs/tree/dev/examples/stackblitz, or the `create-fumadocs-app` CLI instead.
+
 # fumadocs-ui-template
 
 This is a Next.js application generated with
